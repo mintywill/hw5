@@ -28,7 +28,6 @@ function draw() {
   pop(accelerationX);
   
   y[i] -= 3;
-  
   r[i] += 0.05
   
   if (y[i] < 50) {
